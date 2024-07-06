@@ -1,0 +1,6 @@
+titre_partition,tonalité,usage_liturgrique
+bwania,sib,kyrie
+ngemba,ré,gloria
+nayadi,sib,kyrie
+o_kembo,ré,gloria
+o_nkembo,ré,gloria
